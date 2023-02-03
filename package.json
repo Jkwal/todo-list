@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-udemy",
+  "version": "1.0.0",
+  "description": "1.Todolist на JS c использованием JSONPlaceholder\r 2.Миграция на TS",
+  "main": "src/app.ts",
+  "scripts": {
+    "script": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkwal/todo-list-UDEMY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkwal/todo-list-UDEMY/issues"
+  },
+  "homepage": "https://github.com/Jkwal/todo-list-UDEMY#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
